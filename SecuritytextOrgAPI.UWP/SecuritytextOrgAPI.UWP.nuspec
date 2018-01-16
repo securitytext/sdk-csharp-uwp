@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+SecuritytextOrgAPI.UWP
+This file was automatically generated for SecurityTextOrg by APIMATIC v2.0 ( https://apimatic.io )
+-->
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SecuritytextOrgAPI.UWP</id>
+    <version>1.0.0</version>
+    <title>SecuritytextOrgAPI.UWP</title>
+    <authors>APIMATIC 2.0</authors>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An API for securitytext.org</description>
+    <summary />
+    <releaseNotes />
+    <copyright>Copyright 2016</copyright>
+    <language>en-US</language>
+        <dependencies>
+            <dependency id="APIMATIC.SDK.Common" version="2.1.0.0" />
+        </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\SecuritytextOrgAPI.UWP.dll" target="lib\SecuritytextOrgAPI.UWP.dll" />
+  </files>
+</package>
